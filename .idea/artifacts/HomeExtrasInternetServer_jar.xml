@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HomeExtrasInternetServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HomeExtrasInternetServer_jar</output-path>
+    <root id="archive" name="HomeExtrasInternetServer.jar">
+      <element id="module-output" name="HomeExtrasInternetServer" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/mysql-connector-java-8.0.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/gson-2.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
